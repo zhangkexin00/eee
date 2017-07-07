@@ -39,12 +39,7 @@
 	
 }
 
-#header-control div:nth-child(1) {
-	height:18px; width: 18px;
-	background: url(../img/icon/material/返回.svg) no-repeat;
-	background-size: contain;
-	
-}
+
 
 
 #msg {
@@ -67,6 +62,17 @@
 	padding-right: 8px;
 	
 }
+
+
+#fang{
+	height: 22px;width: 22px;
+	
+	background: url(../img/photo/放大镜.svg) no-repeat;
+	background-size: contain;
+	margin-right: 15px;
+
+}
+
 
 /* 加号  */
 #add {

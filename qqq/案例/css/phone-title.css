@@ -21,25 +21,41 @@
 	
 	
 }
+.font-style{
+ width: 16px;
+ height: 16px;
+ margin-bottom: 4px;
+ margin-left: 2px;
+}
 /* 有信号 */
-.signal {
+#ww{
+	
+}
+	
+}
+	
+	
+
+}
+
+/* .signal {
 	height: 7px;
 	width: 7px;
-	border-radius: 50%;
+
 	border: 1px white solid;
 	background-color: white;
 	margin: 1px;
-}
+}*/
 
 /* 没信号 */
-.no-signal {
+/* .no-signal {
 	height: 7px;
 	width: 7px;
-	border-radius: 50%;
+
 	border: 1px white solid;
 	margin: 2px;
 }
-
+*/
 
 /*  手机最顶端模块的布局 ： 的中间 */
 #phone-title-center{
@@ -52,6 +68,7 @@
 	align-items: center; /*  纵向布局  */
 	
 }
+
 
 /*  手机最顶端模块的布局 ： 的右侧   这里放电池 和 电量百分比*/
 #phone-title-right{
@@ -76,7 +93,7 @@
 #phone-title-right div:nth-child(2) div {
 	
 	height: 9px;
-	width: 25px;
+	width: 15px;
 	background-color: #76ff03;
 }
 
